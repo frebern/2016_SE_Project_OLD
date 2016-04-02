@@ -1,0 +1,1 @@
+#include <conio.h>main(){char i=getch();if(i=='1')printf("frebern@naver.com");if(i=='2')printf("01071823611");}
