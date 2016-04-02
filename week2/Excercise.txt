@@ -1,0 +1,19 @@
+Exercise1
+
+
+
+
+
+
+1. 깃 디렉토리 초기화
+git init
+2. 리모트 레포지터리로부터의 Pull
+git pull OriginForkURL
+3. 수정 후 추가
+git add *
+git commit -m "Commit Message"
+4. 자신의 레포지터리로 푸시
+git remote add origin MyForkURL
+git push origin master
+
+
